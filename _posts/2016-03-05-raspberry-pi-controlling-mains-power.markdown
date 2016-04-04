@@ -22,7 +22,9 @@ independently.
 <a href="/assets{{ page.url }}3.jpg" target="_blank"><img src="/assets{{ page.url }}thumb_3.jpg"/></a>
 <a href="/assets{{ page.url }}4.jpg" target="_blank"><img src="/assets{{ page.url }}thumb_4.jpg"/></a>
 <a href="/assets{{ page.url }}5.jpg" target="_blank"><img src="/assets{{ page.url }}thumb_5.jpg"/></a>
-<a href="/assets{{ page.url }}6.jpg" target="_blank"><img src="/assets{{ page.url }}thumb_6.jpg"/></a>
+
+## Open Source Github Project
+*  <a href="https://github.com/ShaneJansen/RaspberryPiExamples" target="_blank">My Example Raspberry Pi Scripts</a>
 
 ## Demonstration Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UKLnZFJKslM" frameborder="0" allowfullscreen></iframe>
