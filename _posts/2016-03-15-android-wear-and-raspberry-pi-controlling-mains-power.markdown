@@ -24,4 +24,4 @@ two endpoints on the REST API which are "get-state" (gets a list and current sta
 *  <a href="https://github.com/ShaneJansen/TheLodgeServer" target="_blank">Raspberry Pi (Server) Source Code</a>
 
 ## Demonstration Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IIbb15KPG7Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8nqdgYc7uo" frameborder="0" allowfullscreen></iframe>

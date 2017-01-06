@@ -7,9 +7,7 @@
 
 # Site settings
 title: Shane Jansen
-email: sjjapps@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  SjjApps is a small software development company founded by Shane Jansen in 2013.
 permalink: /:title/
 url: "http://shanejansen.com" # the base hostname & protocol for your site
 
