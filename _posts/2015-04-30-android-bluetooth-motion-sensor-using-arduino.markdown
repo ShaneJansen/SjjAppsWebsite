@@ -34,4 +34,4 @@ and if the connection is lost during use, a different sound will play.
 *  <a href="https://github.com/ShaneJansen/MotionDetectorArduino" target="_blank">Arduino Source Code</a>
 
 ## Demonstration Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKJGCs2Isdg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCMgG10Ez0A" frameborder="0" allowfullscreen></iframe>
