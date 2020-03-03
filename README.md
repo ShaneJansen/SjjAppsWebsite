@@ -1,5 +1,5 @@
 # shanejansen.com
-[Shane Jansen](http://shanejansen.com) is built using [Jekyll](https://jekyllrb.com/)
+[shanejansen.com](http://shanejansen.com) is built using [Jekyll](https://jekyllrb.com/)
 
 ## Running Locally
 ```

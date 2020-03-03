@@ -14,8 +14,8 @@ This is an extension of the <a href="/raspberry-pi-controlling-mains-power/" tar
 <a href=" /assets/posts{{ page.id }}/3.jpg" target="_blank"><img src=" /assets/posts{{ page.id }}/3.jpg" width="100"/></a>
 
 ## Github Links
-* <a href="https://github.com/shane-jansen/the-lodge-android" target="_blank">Android and Android Wear Source Code</a>
-* <a href="https://github.com/shane-jansen/the-lodge-server" target="_blank">Raspberry Pi (Server) Source Code</a>
+* <a href="https://github.com/shanejansen/the-lodge-android" target="_blank">Android and Android Wear Source Code</a>
+* <a href="https://github.com/shanejansen/the-lodge-server" target="_blank">Raspberry Pi (Server) Source Code</a>
 
 ## Demonstration
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EOatzmbiEB4" frameborder="0" allowfullscreen></iframe>

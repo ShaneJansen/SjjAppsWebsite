@@ -26,8 +26,8 @@ This is an infrared motion sensor connected to an Arduino microcontroller. When 
 <a href="/assets/posts{{ page.id }}/8.jpg" target="_blank"><img src="/assets/posts{{ page.id }}/8.jpg" width="100"/></a>
 
 ## Github Links
-* <a href="https://github.com/shane-jansen/portable-security-android" target="_blank">Android Source Code</a>
-* <a href="https://github.com/shane-jansen/motion-detector-arduino" target="_blank">Arduino Source Code</a>
+* <a href="https://github.com/shanejansen/portable-security-android" target="_blank">Android Source Code</a>
+* <a href="https://github.com/shanejansen/motion-detector-arduino" target="_blank">Arduino Source Code</a>
 
 ## Demonstration
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xCMgG10Ez0A" frameborder="0" allowfullscreen></iframe>

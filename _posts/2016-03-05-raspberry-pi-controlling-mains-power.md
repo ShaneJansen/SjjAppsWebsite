@@ -21,7 +21,7 @@ This is a module that I created which allows any device with a plug to be contro
 <a href="/assets/posts{{ page.id }}/5.jpg" target="_blank"><img src="/assets/posts{{ page.id }}/5.jpg" width="100"/></a>
 
 ## Github Links
-* <a href="https://github.com/shane-jansen/raspberry-pi-examples" target="_blank">Raspberry Pi Examples</a>
+* <a href="https://github.com/shanejansen/raspberry-pi-examples" target="_blank">Raspberry Pi Examples</a>
 
 ## Demonstration
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aurs6bAXmWc" frameborder="0" allowfullscreen></iframe>
